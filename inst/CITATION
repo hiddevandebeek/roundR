@@ -1,0 +1,13 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "hiddevandebeek/roundR: Version 0.2.0 - First release",
+  author   = "Hidde vand de Beek",
+  year     = "2024",
+  doi      = "10.5281/zenodo.10475544",
+  url      = "https://github.com/hiddevandebeek/roundR",
+  textVersion = paste(
+"van de Beek, H. (2024). hiddevandebeek/roundR: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.10475544"
+  )
+)
