@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "van de Beek"
+  given-names: "Hidde"
+orcid: "https://orcid.org/0000-0001-8111-4138"
+title: "hiddevandebeek/roundR: Version 0.2.0 - First release"
+doi: "10.5281/zenodo.10475544"
+version: v0.2.0
+date-released: 2024-01-09
+                             
